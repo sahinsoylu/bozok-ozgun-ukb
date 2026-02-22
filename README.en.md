@@ -1,4 +1,6 @@
 # 🚀 BOZOK Flight Control Computer (FCC)
+[![tr](https://img.shields.io/badge/lang-tr-red.svg)](https://github.com/sahinsoylu/bozok-ozgun-ukb/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/sahinsoylu/bozok-ozgun-ukb/blob/main/README.en.md)
 
 **2025 TEKNOFEST Rocket Competition – 1st Place**  
 Developed by: **Bozok Rocket Team**
