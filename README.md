@@ -1,4 +1,6 @@
 # 🚀 BOZOK Uçuş Kontrol Bilgisayarı (UKB)
+[![tr](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/sahinsoylu/bozok-ozgun-ukb/README.md)
+[![en](https://img.shields.io/badge/lang-tr-green.svg)](https://github.com/sahinsoylu/bozok-ozgun-ukb/README.en.md)
 
 **2025 TEKNOFEST Roket Yarışması – 1.lik**  
 Geliştiren: **Bozok Roket Takımı**
